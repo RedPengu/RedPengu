@@ -15,7 +15,7 @@
 
 ---
 
-### Spotify Playing 🎧
+### Recently Playing 🎧
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=d63cpy26g3cpyksminl83cf8v)
 

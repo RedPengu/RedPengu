@@ -2,8 +2,10 @@
 
 
 
-- i love trucks
+- favorite bands are ac/dc and airbourne
+- am poopy discord coder man
 - insane dave is superior
+- i love trucks
 
 
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RedPengu)
